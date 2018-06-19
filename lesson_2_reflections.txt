@@ -9,7 +9,10 @@ What value do you think it offers?
 
 How can you use the staging area to make sure you have one commit per logical
 change?
-
+	
+	You can look at the diff between the staging area and either the latest commit or the working directory,
+	then only have the files included in said logical change be committed.
+	
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
